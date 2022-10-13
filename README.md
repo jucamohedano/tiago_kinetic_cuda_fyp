@@ -23,7 +23,6 @@ CUDA and CUDNN.
   3. Run `tiago_up` to start the container
   4. Run `tiago_bash` to execute a shell session within the container.
   3. Run `tiago_stop` to stop the container.
-  4. Run `tiago_down` to remove the container created by `tiago_`up`.
   
 ### Hints
 
