@@ -1,4 +1,4 @@
-# TIAGO-DOCKER
+# TIAGO-DOCKER-CUDA
 
 The Dockerfile was modified to meed the requirements of the project [ros_contact_graspnet](https://github.com/jucamohedano/ros_contact_graspnet).
 
